@@ -4,7 +4,7 @@ Designer ECY1_2 Migration Tool 1.0.0
 
 This application is a special project developed by the Distech Controls Advanced Support Team and is NOT a sanctioned or official product release by Distech Controls Inc.
 
-Please read DISCLAIMER.txt in full before using this tool.
+Please read DISCLAIMER.md in full before using this tool.
 
 Designer package inspection, DG5 analysis, BACnet object discovery, and Gen 1 to ECLYPSE migration assistance utility.
 
