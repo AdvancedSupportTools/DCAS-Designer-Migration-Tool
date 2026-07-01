@@ -10,8 +10,6 @@ Designer package inspection, DG5 analysis, BACnet object discovery, and Gen 1 to
 
 Platform: Windows
 
-Technology: PowerShell + WPF
-
 Distribution: Community Tool
 
 ________________________________________
